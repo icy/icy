@@ -5,4 +5,6 @@
 * My homepage: https://icy.github.io/#challenges (Very old, don't look!)
 * Linux/devops tips and tricks: https://t.me/dailyops
 * My safety-first tools [gk8s](https://github.com/icy/gk8s), [genvsub](https://github.com/icy/genvsub), [rolo](https://github.com/icy/rolo)
-* and my [bash coding style](https://github.com/icy/bash-coding-style) which still makes me human :)
+   * and my [bash coding style](https://github.com/icy/bash-coding-style) which still makes me human :)
+* My public vibe projects
+   * Playing again with my master thesis https://github.com/icy/vibe-my-master-thesis (Maths @2006)   
