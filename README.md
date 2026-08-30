@@ -8,3 +8,4 @@
    * and my [bash coding style](https://github.com/icy/bash-coding-style) which still makes me human :)
 * My public vibe projects
    * Vibe maths with [my master thesis @2006](https://github.com/icy/vibe-my-master-thesis)
+* I'm an [INTJ](https://www.16personalities.com/intj-personality).
