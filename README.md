@@ -7,4 +7,5 @@
 * My safety-first tools [gk8s](https://github.com/icy/gk8s), [genvsub](https://github.com/icy/genvsub), [rolo](https://github.com/icy/rolo)
    * and my [bash coding style](https://github.com/icy/bash-coding-style) which still makes me human :)
 * My public vibe projects
-   * Vibe maths with [my master thesis @2006](https://github.com/icy/vibe-my-master-thesis)
+   * Vibe maths with [my master thesis @2006](https://github.com/icy/vibe-my-master-thesis) -- symbolic computing and/or proof verification
+   * [Vibe privatebin scripts (bash/python)](https://github.com/icy/vibe-privatebin/tree/main), simple enough to quickly understand how privatebin is working
